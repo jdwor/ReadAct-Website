@@ -232,6 +232,20 @@ img#download {
     margin-top: 60px;
 }
 
+/* FAQ */
+
+#faq h1 {
+    margin-bottom: 30px;
+}
+
+#faq h3 {
+    margin-bottom: 20px;
+}
+
+#faq p {
+    margin-bottom: 30px;
+}
+
 /* ALL PAGES */
 
 /* Contact */
